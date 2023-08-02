@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\bin\Debug\net6.0\centuryFromYear.exe
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\bin\Debug\net6.0\centuryFromYear.deps.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\bin\Debug\net6.0\centuryFromYear.runtimeconfig.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\bin\Debug\net6.0\centuryFromYear.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\bin\Debug\net6.0\centuryFromYear.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.AssemblyInfo.cs
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\refint\centuryFromYear.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\centuryFromYear.genruntimeconfig.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\centuryFromYear\obj\Debug\net6.0\ref\centuryFromYear.dll
