@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\bin\Debug\net6.0\Statues.exe
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\bin\Debug\net6.0\Statues.deps.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\bin\Debug\net6.0\Statues.runtimeconfig.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\bin\Debug\net6.0\Statues.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\bin\Debug\net6.0\Statues.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.AssemblyInfo.cs
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\refint\Statues.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\Statues.genruntimeconfig.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Statues\obj\Debug\net6.0\ref\Statues.dll
