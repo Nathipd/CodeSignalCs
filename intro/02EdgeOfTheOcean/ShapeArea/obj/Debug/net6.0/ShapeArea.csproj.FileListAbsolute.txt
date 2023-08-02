@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\bin\Debug\net6.0\ShapeArea.exe
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\bin\Debug\net6.0\ShapeArea.deps.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\bin\Debug\net6.0\ShapeArea.runtimeconfig.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\bin\Debug\net6.0\ShapeArea.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\bin\Debug\net6.0\ShapeArea.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.AssemblyInfo.cs
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\refint\ShapeArea.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ShapeArea.genruntimeconfig.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\ShapeArea\obj\Debug\net6.0\ref\ShapeArea.dll
