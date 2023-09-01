@@ -17,10 +17,10 @@ namespace Statues
         {
             int _arrayLenght = statues.Length;
             int _biggerValue = statues.Max();
-            int _ciggerValue = statues.Min();
+            int _smallerValue = statues.Min();
             int _remainingStatues = 0;
 
-            for (int _currentNumber = _ciggerValue; _currentNumber <= _biggerValue; _currentNumber++)
+            for (int _currentNumber = _smallerValue; _currentNumber <= _biggerValue; _currentNumber++)
             {
                 bool _exist = false;
 
