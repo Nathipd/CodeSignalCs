@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.AssemblyInfo.cs
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Release\net6.0\AdjacentElementsProduct.exe
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Release\net6.0\AdjacentElementsProduct.deps.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Release\net6.0\AdjacentElementsProduct.runtimeconfig.json
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Release\net6.0\AdjacentElementsProduct.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Release\net6.0\AdjacentElementsProduct.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\refint\AdjacentElementsProduct.dll
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.pdb
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\AdjacentElementsProduct.genruntimeconfig.cache
+C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Release\net6.0\ref\AdjacentElementsProduct.dll

@@ -3,7 +3,6 @@ C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckP
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.runtimeconfig.json
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.dll
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.pdb
-C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.csproj.AssemblyReference.cache
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.AssemblyInfoInputs.cache
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\01TheJourneyBegins\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.AssemblyInfo.cs

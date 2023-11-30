@@ -3,7 +3,6 @@ C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\Adjacent
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.runtimeconfig.json
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.dll
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.pdb
-C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.csproj.AssemblyReference.cache
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.AssemblyInfoInputs.cache
 C:\Users\natha\source\repos\Nathipd\CodeSignalCs\intro\02EdgeOfTheOcean\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.AssemblyInfo.cs
