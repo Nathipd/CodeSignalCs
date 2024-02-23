@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IdAMvtiGqydEsXqdsOo4u3xgj+ycSkvaXEoTWqMLeAi4alIM0gTWlIgoSK2b6Ax5u5PdULf/1w+TqmNtgMMYzQ==",
+  "dgSpecHash": "I257GDe8epGKYYNjXm48tmlmwL09DJ5oU2TQ0elgZzUMtw1tRe57LqU1dr+iL/Gecg5vPeVkKgWMM7brsiVeQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natha\\source\\repos\\Nathipd\\CodeSignalCs\\intro\\01_the_journey_begins\\add\\add.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\natha\\OneDrive\\Documents\\projetos\\CodeSignalCs\\intro\\01TheJourneyBegins\\add\\add.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
