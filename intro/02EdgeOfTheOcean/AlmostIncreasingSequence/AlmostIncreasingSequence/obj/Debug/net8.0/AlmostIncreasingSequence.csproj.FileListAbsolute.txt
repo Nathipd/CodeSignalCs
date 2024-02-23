@@ -1,0 +1,15 @@
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\net8.0\AlmostIncreasingSequence.exe
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\net8.0\AlmostIncreasingSequence.deps.json
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\net8.0\AlmostIncreasingSequence.runtimeconfig.json
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\net8.0\AlmostIncreasingSequence.dll
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\net8.0\AlmostIncreasingSequence.pdb
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.AssemblyInfoInputs.cache
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.AssemblyInfo.cs
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.csproj.CoreCompileInputs.cache
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.sourcelink.json
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.dll
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\refint\AlmostIncreasingSequence.dll
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.pdb
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\AlmostIncreasingSequence.genruntimeconfig.cache
+c:\Users\natha\OneDrive\Documents\projetos\CodeSignalCs\intro\02EdgeOfTheOcean\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\net8.0\ref\AlmostIncreasingSequence.dll
